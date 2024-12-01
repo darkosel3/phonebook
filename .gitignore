@@ -87,6 +87,12 @@ web_modules/
 .next
 out
 
+<<<<<<< HEAD
+=======
+req
+frontend
+
+>>>>>>> 8ea9407 (first commit)
 # Nuxt.js build / generate output
 .nuxt
 # dist
